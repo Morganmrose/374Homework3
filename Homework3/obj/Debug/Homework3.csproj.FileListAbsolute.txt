@@ -1,0 +1,6 @@
+C:\Users\WIA\Documents\374_HW3_MR\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\WIA\Documents\374_HW3_MR\Homework3\bin\Debug\Homework3.exe
+C:\Users\WIA\Documents\374_HW3_MR\Homework3\bin\Debug\Homework3.pdb
+C:\Users\WIA\Documents\374_HW3_MR\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\WIA\Documents\374_HW3_MR\Homework3\obj\Debug\Homework3.exe
+C:\Users\WIA\Documents\374_HW3_MR\Homework3\obj\Debug\Homework3.pdb
